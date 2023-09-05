@@ -1,2 +1,2 @@
-# Scrap_Steet_Image_Dataset
-A Scrap Steet Image Dataset for Object Detection
+# Scrap_Steel_Image_Dataset
+A Scrap Steel Image Dataset for Object Detection
