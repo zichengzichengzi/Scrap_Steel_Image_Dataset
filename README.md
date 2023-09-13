@@ -1,7 +1,8 @@
 # Scrap_Steel_Image_Dataset
 A Scrap Steel Image Dataset for Object Detection
 
-<img src="C:\Users\18225\Desktop\微信截图_20230913165515.png" alt="微信截图_20230913165515" style="zoom:80%;" />
+![Uploading 1.png…]()
+
 
 The dataset consists of 3440 labeled images, 29 label categories and a total of 6081 samples. It is the voc data format. If you would like to download this dataset. Please download the data from the link below, details of which are given below：
 
