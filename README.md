@@ -5,7 +5,6 @@ The dataset consists of 3440 labeled images, 29 label categories and a total of 
 Dataset download address：https://pan.baidu.com/s/1Ng0aUm-hDQnyDPtKWEoOkw?pwd=1hud 
 ![image](https://github.com/zichengzichengzi/Scrap_Steel_Image_Dataset/assets/43312794/a111fab7-1741-4656-aac6-c0f79a2f1068)
 
-Category corresponding to super-category：
 ![微信截图_20230913082106](https://github.com/zichengzichengzi/Scrap_Steel_Image_Dataset/assets/43312794/304e2fde-6ff0-45fa-9fdf-b8fdf0a83ab1)
 
 
