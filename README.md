@@ -1,4 +1,5 @@
 # Scrap_Steel_Image_Dataset
+《An RGB-D-Based Thickness Feature Descriptor and Its Application on Scrap Steel Grading》
 A Scrap Steel Image Dataset for Object Detection.
 
 ![1](https://github.com/zichengzichengzi/Scrap_Steel_Image_Dataset/assets/43312794/0d6198d5-1eb2-4aca-92cb-f45c8650a944)
