@@ -18,7 +18,7 @@ for the password, please contact 18225607701@163.com
 
 We also provide RGB D image data in folders, with each scene including point clouds, depth images, and color images.
 
-download address:https://pan.baidu.com/s/10yXLfHfcu6bJ3JxywUwRLQ?pwd=911i 
+download address:https://pan.baidu.com/s/1TqSpqO4Jt_dqwtCSoEA88A?pwd=vbia 
 ![微信截图_20230908211413](https://github.com/zichengzichengzi/Scrap_Steel_Image_Dataset/assets/43312794/3005ed93-f683-4301-9271-36bfefcf5f1e)
 
 We provide the executables and dependencies of our algorithm. It is a thickness detection method based on an organised point cloud for scrap steel grading.
